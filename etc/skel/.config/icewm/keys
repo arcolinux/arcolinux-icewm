@@ -22,8 +22,7 @@
 #################################################################
 
 # Vivaldi
-#key "Super+F1" vivaldi-stable
-key "Super+F1" firefox
+key "Super+F1" vivaldi-stable
 
 # Atom
 key "Super+F2" 	atom
@@ -63,10 +62,10 @@ key "Super+F12" rofi -show run
 #################################################################
 
 #Atom
-#key "Super+e" atom
+key "Super+e" atom
 
 #Browser
-#key "Super+w" vivaldi-stable
+key "Super+w" vivaldi-stable
 
 #Conky-toggle
 key "Super+c" conky-toggle
@@ -81,7 +80,7 @@ key "Super+x" xarcolinux-logout
 key "Super+r" rofi-theme-selector
 
 #Urxvt
-key "Super+t" termite
+key "Super+t" urxvt
 
 #Pavucontrol
 key "Super+v" pavucontrol
@@ -97,14 +96,14 @@ key "Super+Escape" xkill
 
 #Keyboard dependent
 #termite
-#key "Super+KP_Enter" termite
+key "Super+KP_Enter" termite
 
 #################################################################
 # SUPER + SHIFT KEYS
 #################################################################
 
 #File-Manager
-#key "Super+Shift+Return"	thunar
+key "Super+Shift+Return"	thunar
 
 #Keyboard dependent
 #File-Manager
@@ -117,7 +116,7 @@ key "Super+Shift+d" dmenu_run -i -nb '#191919' -nf '#fea63c' -sb '#fea63c' -sf '
 key "Super+Shift+r"  icewm --restart
 
 #Keyboard dependent
-#key "Super+Shift+KP_Enter" thunar
+key "Super+Shift+KP_Enter" thunar
 
 #################################################################
 # CONTROL + ALT KEYS
@@ -160,7 +159,7 @@ key "Ctrl+Alt+k" arcolinux-logout
 key "Ctrl+Alt+l" arcolinux-logout
 
 #Pamac-manager
-key "Alt+Ctrl+p" /usr/bin/pamac-manager 
+key "Alt+Ctrl+p" pamac-manager 
 
 #Xfce4-settings-manager
 key "Ctrl+Alt+m" xfce4-settings-manager
@@ -205,22 +204,22 @@ key "Alt+n" variety -n
 key "Alt+p" variety -p
 
 #Wallpaper favorite
-#key "Alt+f" variety -f
+key "Alt+f" variety -f
 
 #Wallpaper previous
-#key Alt+Left" variety -p
+key Alt+Left" variety -p
 
 #Wallpaper next
-#key "Alt+Right" variety -n
+key "Alt+Right" variety -n
 
 #Wallpaper toggle-pause
-#key "Alt+Up" variety --toggle-pause
+key "Alt+Up" variety --toggle-pause
 
 #Wallpaper resume
-#key "Alt+Down" variety --resume
+key "Alt+Down" variety --resume
 
 #Gmrun
-key "Alt+F2" gmrun
+#key "Alt+F2" gmrun
 
 #Xfce4-appfinder
 key "Alt+F3" xfce4-appfinder
@@ -262,7 +261,7 @@ key "Print" scrot 'ArcoLinux-%Y-%m-%d-%s_screenshot_$wx$h.jpg' -e 'mv $f $$(xdg-
 key "Ctrl+Print" xfce4-screenshooter
 
 #Gnome-Screenshot
-key "Ctrl+Shift+Print" gnome-screenshot -i
+#key "Ctrl+Shift+Print" gnome-screenshot -i
 
 #################################################################
 #     FUNCTION KEYS
@@ -286,7 +285,7 @@ key "F12" xfce4-terminal --drop-down
 #################################################################
 
 #Picom Toggle
-key "ctrl+alt+o" ~/.config/spectrwm/scripts/picom-toggle.sh
+key "Ctrl+Alt+o" $HOME/.config/icewm/scripts/picom-toggle.sh
 
 #################################################################
 # SUPER + KEYS
@@ -311,7 +310,7 @@ key "ctrl+alt+o" ~/.config/spectrwm/scripts/picom-toggle.sh
 #################################################################
 # SUPER + CONTROL KEYS
 #################################################################
-
+oo
 
 #################################################################
 # ALT KEYS

@@ -158,10 +158,10 @@
 # DelayPointerFocus=1 
 
 # Support win95 keyboard keys (Penguin/Meta/Win_L,R shows menu)
-  Win95Keys=0 
+  Win95Keys=0
 
 # Treat Super/Win modifier as Ctrl+Alt
-  ModSuperIsCtrlAlt=0 
+ ModSuperIsCtrlAlt=0
 
 # Support mouse wheel
 # UseMouseWheel=0 
@@ -757,7 +757,7 @@ WorkspaceNames=" 1 ", " 2 ", " 3 ", " 4 "
 
 # KeyWinLower="Alt+F3"
 
-KeyWinClose="Ctrl+Alt+q"
+KeyWinClose="Super+Shift+q"
 
 # KeyWinRestore="Alt+F5"
 

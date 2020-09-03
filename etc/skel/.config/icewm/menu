@@ -2,8 +2,10 @@ menu "Applications" _none_ {
   menu "Accessories" _none_ {
     prog "Application Finder" _none_ xfce4-appfinder
     prog "Archive Manager" _none_ file-roller 
+    prog "ArcoLinux Betterlockscreen" _none_ /usr/local/bin/arcolinux-betterlockscreen
     prog "Arcolinux Tweak Tool" _none_ /usr/local/bin/arcolinux-tweak-tool
     prog "Atom" _none_ env ATOM_DISABLE_SHELLING_OUT_FOR_ENVIRONMENT=false /usr/bin/atom 
+    prog "Catfish File Search" _none_ /usr/bin/catfish 
     prog "Conky Toggle" _none_ conky-toggle
     prog "Conkyzen" _none_ am-conkyzen
     prog "Screenshot" _none_ xfce4-screenshooter
@@ -12,14 +14,15 @@ menu "Applications" _none_ {
     prog "USB Image Writer" _none_ mintstick -m iso
     prog "USB Stick Formatter" _none_ mintstick -m format
     prog "Variety" _none_ variety 
-    prog "Vim" _none_ xterm -e vim 
     prog "compton" _none_ compton
     prog "picom" _none_ picom
   }
   menu "Development" _none_ {
+    prog "Electron" _none_ electron 
     prog "Electron" _none_ electron5 
     prog "Geany" _none_ geany 
     prog "GitAhead" _none_ gitahead
+    prog "Hyper" _none_ hyper
     prog "Icon Browser" _none_ yad-icon-browser
     prog "Meld" _none_ meld 
     prog "Sublime Text 3 Dev" _none_ subl3 
@@ -36,6 +39,7 @@ menu "Applications" _none_ {
     prog "Qt V4L2 test Utility" _none_ qv4l2
     prog "Qt V4L2 video capture utility" _none_ qvidcap
     prog "SimpleScreenRecorder" _none_ simplescreenrecorder --logfile
+    prog "Spotify" _none_ spotify 
     prog "VLC media player" _none_ /usr/bin/vlc --started-from-file 
     prog "Volume Icon" _none_ volumeicon
   }
@@ -56,7 +60,7 @@ menu "Applications" _none_ {
     prog "Adblock" _none_ termite -e "pkexec hblock -b" --hold
     prog "Advanced Network Configuration" _none_ nm-connection-editor
     prog "Arcolinux Welcome" _none_ /usr/local/bin/arcolinux-welcome-app
-    prog "Bluetooth" _none_ blueberry
+    prog "Bluetooth Manager" _none_ blueman-manager
     prog "Customize Look and Feel" _none_ lxappearance
     prog "File Manager Settings" _none_ thunar-settings
     prog "LightDM GTK+ Greeter settings" _none_ lightdm-gtk-greeter-settings-pkexec
@@ -77,6 +81,7 @@ menu "Applications" _none_ {
     prog "Termite" _none_ termite
     prog "Thunar File Manager" _none_ thunar 
     prog "UXTerm" _none_ uxterm
+    prog "Virtual Machine Manager" _none_ virt-manager
     prog "XTerm" _none_ xterm
     prog "Xfce Terminal" _none_ xfce4-terminal
     prog "conky" _none_ conky --daemonize --pause=1
