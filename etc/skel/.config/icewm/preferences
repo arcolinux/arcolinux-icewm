@@ -759,6 +759,8 @@ WorkspaceNames=" 1 ", " 2 ", " 3 ", " 4 "
 
 KeyWinClose="Super+Shift+q"
 
+KeyWinClose="Super+q"
+
 # KeyWinRestore="Alt+F5"
 
 # KeyWinPrev="Alt+Shift+F6"
