@@ -151,7 +151,7 @@ key "Ctrl+Alt+g" chromium -no-default-browser-check
 key "Ctrl+Alt+f" firefox
 
 #Nitrogen
-key Ctrl+Alt+i" nitrogen
+key "Ctrl+Alt+i" nitrogen
 
 #arcolinux-logout
 key "Ctrl+Alt+k" arcolinux-logout
