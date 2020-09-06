@@ -15,7 +15,8 @@
 # Note: some of them might have unwanted side effects through concurrency with
 # other listeners like systemd for the suspend key events
 
-
+#Picom Toggle
+key "Ctrl+Alt+o" picom-toggle-icewm
 
 #################################################################
 # SUPER + FUNCTION KEYS
@@ -284,8 +285,6 @@ key "F12" xfce4-terminal --drop-down
 # CTRL + ALT KEYS
 #################################################################
 
-#Picom Toggle
-key "Ctrl+Alt+o" $HOME/.config/icewm/scripts/picom-toggle.sh
 
 #################################################################
 # SUPER + KEYS
