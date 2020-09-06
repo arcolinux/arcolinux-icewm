@@ -33,6 +33,11 @@ BorderSizeY=1
 DlgBorderSizeX=1
 DlgBorderSizeY=1
 
+DesktopBackgroundColor="#555555"
+DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1 
+DesktopBackgroundImage="/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg"
+
 ColorNormalBorder=#2f343f
 ColorActiveBorder=#2f343f
 ColorNormalButton=#2f343f
