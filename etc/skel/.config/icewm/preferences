@@ -104,7 +104,7 @@
 # HideBordersMaximized=0 
 
 # Maximized windows can be resized
-  SizeMaximized=1 
+#  SizeMaximized=1 
 
 # Show position status window during move/resize
 # ShowMoveSizeStatus=0 #0/1
