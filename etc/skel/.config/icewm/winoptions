@@ -7,7 +7,7 @@
 thunar.Thunar."File Operation Progress".startMinimized: 1
 thunar.Thunar."Confirm to replace files".startMinimized: 1
 Firefox.firefox."Quit and close tabs?".startMinimized: 1
-fullKeys=1
+#fullKeys=1
 
 
 
