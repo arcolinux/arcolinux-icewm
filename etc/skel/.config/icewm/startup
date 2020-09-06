@@ -19,17 +19,11 @@ dex $HOME/.config/autostart/arcolinux-welcome-app.desktop
 # Set background image
 feh --bg-fill /usr/share/backgrounds/arcolinux/arco-wallpaper.jpg
 
-# Conky
-#conky -c ~/.config/icewm/system-overview
-
 #Pamac-aur tray#
 pamac-tray &
 
 #bluetooth#
 blueberry-tray &
-
-# install xcape - press super to get menu
-#xcape -e 'Super_L=Super_L|space'
 
 #on laptops without seperate numeric keyboard put hashtag in front
 numlockx &
@@ -47,7 +41,7 @@ xset b off
 xfce4-power-manager &
 
 ##Clipboard Manager
-(xfce4-clipman) &
+#(xfce4-clipman) &
 
 ## XFCE4 Settings
 xfsettingsd &
@@ -65,7 +59,3 @@ nm-applet &
 #insync start &
 
 #dropbox &
-
-
-
-
