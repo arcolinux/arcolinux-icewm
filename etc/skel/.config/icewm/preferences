@@ -473,7 +473,7 @@
 # ShowSettingsMenu=0 
 
 # Show focus mode submenu in the program menu
-# ShowFocusModeMenu=0 
+ShowFocusModeMenu=0 
 
 # Show themes submenu in the program menu
 # ShowThemesMenu=0 
@@ -482,7 +482,7 @@
 # ShowLogoutMenu=1 
 
 # Show the help menu item in the program menu
-# ShowHelp=0
+ShowHelp=0
 
 # Show logout submenu in the program menu
 # ShowLogoutSubMenu=0 
