@@ -456,7 +456,7 @@
 # AcpiIgnoreBatteries=""
 
 # Minimal number of themes after which the Themes menu becomes nested (0=disabled)
-# NestedThemeMenuMinNumber=21 # [0-1234]
+NestedThemeMenuMinNumber=0 # [0-1234]
 
 -----------------------------------------------------------------------
 ##########
