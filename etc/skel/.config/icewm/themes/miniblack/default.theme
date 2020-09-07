@@ -93,10 +93,10 @@ ColorInputText="white"
 ColorInputSelection="rgb:22/22/22"
 ColorInputSelectionText="white"
 
-DesktopBackgroundColor="white"
-DesktopBackgroundCenter = 1
-DesktopBackgroundScaled = 1
-DesktopBackgroundImage = 'shoes.jpg'
+DesktopBackgroundColor="#555555"
+DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1 
+DesktopBackgroundImage="/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg"
 
 TitleFontNameXft	   = 	"Snap:size=10,sans-serif:size=8"
 MenuFontNameXft	           =    "Snap:size=10,sans-serif:size=8"

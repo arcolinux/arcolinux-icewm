@@ -40,9 +40,9 @@ ColorQuickSwitchText="#fafafa"
 ColorQuickSwitchActive="#ff4829"
 
 DesktopBackgroundColor="#555555"
-DesktopBackgroundCenter=1 # 0 / 1
-DesktopBackgroundScaled=1 # 0 / 1
-DesktopBackgroundImage="akarix.jpg"
+DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1 
+DesktopBackgroundImage="/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg"
 
 ColorNormalMenu="#181818"
 ColorActiveMenuItem="#181818"

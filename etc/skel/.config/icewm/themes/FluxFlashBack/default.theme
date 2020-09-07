@@ -111,5 +111,7 @@ ColorScrollBarArrow="rgb:50/50/50"
 ColorScrollBarButtonArrow="rgb:50/50/50"
 ColorScrollBarInactiveArrow="rgb:50/50/50"
 
-DesktopBackgroundImage=
-DesktopBackgroundScaled=1
+DesktopBackgroundColor="#555555"
+DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1 
+DesktopBackgroundImage="/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg"

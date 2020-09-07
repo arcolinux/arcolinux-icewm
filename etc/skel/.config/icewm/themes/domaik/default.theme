@@ -14,10 +14,10 @@ CornerSizeY=22
 DlgBorderSizeX=4
 DlgBorderSizeY=2
 
-DesktopBackgroundColor="#f17d42"
-#DesktopBackgroundImage=""
-#DesktopBackgroundCenter=1 # 0 / 1
+DesktopBackgroundColor="#555555"
 DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1 
+DesktopBackgroundImage="/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg"
 
 ShowMenuButtonIcon=1
 MenuMouseTracking=1

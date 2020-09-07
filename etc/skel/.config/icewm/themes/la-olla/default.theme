@@ -105,3 +105,8 @@ ActiveTaskBarFontNameXft        =       sans-serif:size=10
 NormalTaskBarFontNameXft        =       sans-serif:size=10
 ClockFontNameXft                =       sans-serif:size=10
 InputFontNameXft                =       sans-serif:size=10
+
+DesktopBackgroundColor="#555555"
+DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1 
+DesktopBackgroundImage="/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg"

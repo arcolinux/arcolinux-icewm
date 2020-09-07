@@ -89,10 +89,10 @@ ColorScrollBarButtonArrow="#01a0e1"
 ColorScrollBarInactiveArrow="white"
 
 TaskBarClockLeds=0
-DesktopBackgroundImage = 'leviatan.png'
-DesktopBackgroundColor="#1092c8"
-DesktopBackgroundCenter=1 # 0 / 1
-DesktopBackgroundScaled=1 # 0 / 1
+DesktopBackgroundColor="#555555"
+DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1 
+DesktopBackgroundImage="/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg"
 
 TaskBarShowNetStatus=0
 TaskBarShowCPUStatus=0

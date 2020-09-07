@@ -126,3 +126,8 @@ ClockFontNameXft="droid sans:size=10:bold"
 ApmFontNameXft="droid sans:size=10:bold"
 InputFontNameXft="droid sans:size=10"
 LabelFontNameXft="droid sans:size=10"
+
+DesktopBackgroundColor="#555555"
+DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1 
+DesktopBackgroundImage="/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg"

@@ -93,10 +93,10 @@ ColorMEMStatusCached="#d12e2e"
 ColorMEMStatusUser="#9b2020"
 ColorMEMStatusBuffers="black"
 
-DesktopBackgroundColor="#d12e2e"
-#DesktopBackgroundCenter=1 # 0 / 1
-#DesktopBackgroundScaled=1 # 0 / 1
-#DesktopBackgroundImage = ""
+DesktopBackgroundColor="#555555"
+DesktopBackgroundCenter=0
+DesktopBackgroundScaled=1 
+DesktopBackgroundImage="/usr/share/backgrounds/arcolinux/arco-wallpaper.jpg"
 
 TitleFontNameXft="aero matics:size=12"
 MenuFontNameXft="aero matics:size=11"
