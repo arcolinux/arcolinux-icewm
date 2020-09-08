@@ -650,7 +650,7 @@ ShowHelp=0
 
 # Icon search path (colon separated)
 #IconPath="/usr/share/icons/oxygen/base:/usr/share/icons/hicolor:/usr/share/icons:/usr/share/pixmaps:/usr/local/share/icons/hicolor:/usr/share/icons/Sardi-Arc:/usr/share/icons/Surfn-Arc:"
-
+IconPath="~/.config/icewm/icons"
 ------------------------------------------------------------------------
 #####################
 ###PROGRAM COMMAND###
