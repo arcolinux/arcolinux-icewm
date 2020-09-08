@@ -441,7 +441,7 @@
 # NetworkStatusDevice="[ew]*"
 
 # Clock Time format (strftime format string)
-  TimeFormat="%H:%M:%S"
+  TimeFormat="%H:%M"
 
 # Alternate Clock Time format (e.g., for blinking effects)
 # TimeFormatAlt=""
@@ -1092,7 +1092,7 @@ KeySysWorkspaceNext="Alt+Ctrl+Right"
 # ClockFontName="-*-monospace-medium-r-*-*-*-140-*-*-*-*-*-*"
 
 # Name of the task bar clock font.
-# ClockFontNameXft="monospace:size=12"
+ClockFontNameXft="monospace:bold:size=12"
 
 # Name of the task bar temperature font.
 # TempFontName="-*-monospace-medium-r-*-*-*-140-*-*-*-*-*-*"
