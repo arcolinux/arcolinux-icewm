@@ -1155,7 +1155,7 @@ KeySysWorkspaceNext="Alt+Ctrl+Right"
 # ColorNormalWorkspaceButton=""
 
 # Text color of workspace buttons, ColorNormalButtonText is used if empty
-# ColorNormalWorkspaceButtonText=""
+ColorNormalWorkspaceButtonText="rgb:FF/FF/FF"
 
 # Background of the active workspace button, ColorActiveButton is used if empty
 # ColorActiveWorkspaceButton=""
