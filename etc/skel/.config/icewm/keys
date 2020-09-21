@@ -75,7 +75,7 @@ key "Super+c" conky-toggle
 key "Super+h" urxvt 'htop task manager' -e htop
 
 #arcolinux-logout
-key "Super+x" xarcolinux-logout
+key "Super+x" arcolinux-logout
 
 #Rofi theme selector
 key "Super+r" rofi-theme-selector
