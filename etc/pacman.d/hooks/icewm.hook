@@ -1,0 +1,10 @@
+[Trigger]
+Operation = Install
+Operation = Upgrade
+Type = Package
+Target = icewm
+
+[Action]
+Description = Remove icewm.desktop from /usr/share/xsessions
+When = PostTransaction
+Exec = /bin/sh -c "rm /usr/share/xsessions/icewm.desktop"
