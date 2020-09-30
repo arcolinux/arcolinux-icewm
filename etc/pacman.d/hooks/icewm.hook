@@ -7,4 +7,4 @@ Target = icewm
 [Action]
 Description = Avoid confusion in xsessions
 When = PostTransaction
-Exec = /bin/sh -c "mv /usr/share/xsessions/icewm.desktop /usr/share/xsessions/icewm.desktop.backup"
+Exec = /bin/sh -c "mv /usr/share/xsessions/icewm.desktop.arcolinux /usr/share/xsessions/icewm.desktop"
