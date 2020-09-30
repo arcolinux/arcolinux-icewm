@@ -5,6 +5,6 @@ Type = Package
 Target = icewm
 
 [Action]
-Description = Remove icewm.desktop from /usr/share/xsessions
+Description = Copy content of icewm-session.desktop to icewm.desktop in /usr/share/xsessions
 When = PostTransaction
-Exec = /bin/sh -c "rm /usr/share/xsessions/icewm.desktop"
+Exec = /bin/sh -c "cp /usr/share/xsessions/icewm-session.desktop /usr/share/xsessions/icewm.desktop"
