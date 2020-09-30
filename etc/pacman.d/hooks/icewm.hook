@@ -7,4 +7,4 @@ Target = icewm
 [Action]
 Description = Avoid confusion in xsessions
 When = PostTransaction
-Exec = /bin/sh -c "cp /usr/share/xsessions/icewm.desktop.arcolinux /usr/share/xsessions/icewm.desktop"
+Exec = /bin/sh -c "[ -f /usr/share/xsessions/icewm.desktop] && cp /usr/share/xsessions/icewm.desktop.arcolinux /usr/share/xsessions/icewm.desktop"
