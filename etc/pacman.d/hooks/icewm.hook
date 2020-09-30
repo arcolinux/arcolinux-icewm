@@ -5,6 +5,6 @@ Type = Package
 Target = icewm
 
 [Action]
-Description = Copy content of icewm-session.desktop to icewm.desktop in /usr/share/xsessions
+Description = Avoid confusion in xsessions
 When = PostTransaction
-Exec = /bin/sh -c "cp /usr/share/xsessions/icewm-session.desktop /usr/share/xsessions/icewm.desktop"
+Exec = /bin/sh -c "mv /usr/share/xsessions/icewm.desktop /usr/share/xsessions/icewm.desktop.backup"
