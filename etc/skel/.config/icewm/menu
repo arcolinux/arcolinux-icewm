@@ -57,7 +57,7 @@ menu "Applications" _none_ {
   }
   menu "Settings" _none_ {
     prog "ARandR" _none_ arandr
-    prog "Adblock" _none_ termite -e "pkexec hblock -b" --hold
+    prog "Adblock" _none_ urxvt -hold -e "pkexec hblock -b" 
     prog "Advanced Network Configuration" _none_ nm-connection-editor
     prog "Arcolinux Welcome" _none_ /usr/local/bin/arcolinux-welcome-app
     prog "Bluetooth Manager" _none_ blueman-manager
@@ -78,7 +78,7 @@ menu "Applications" _none_ {
     prog "Htop" _none_ xterm -e htop
     prog "Software Update" _none_ pamac-manager --updates
     prog "Task Manager" _none_ xfce4-taskmanager
-    prog "Termite" _none_ termite
+    prog "Urxvt" _none_ urxvt
     prog "Thunar File Manager" _none_ thunar 
     prog "UXTerm" _none_ uxterm
     prog "Virtual Machine Manager" _none_ virt-manager

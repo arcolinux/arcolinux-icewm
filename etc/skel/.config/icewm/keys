@@ -89,15 +89,15 @@ key "Super+v" pavucontrol
 #Pragha
 key "Super+m" pragha
 
-#Termite
-#key Super+Return" termite
+#urxvt
+#key Super+Return" urxvt
 
 #Xkill
 key "Super+Escape" xkill
 
 #Keyboard dependent
-#termite
-key "Super+KP_Enter" termite
+#urxvt
+key "Super+KP_Enter" urxvt
 
 #################################################################
 # SUPER + SHIFT KEYS
@@ -174,11 +174,11 @@ key "Ctrl+Alt+r" rofi-theme-selector
 #Spotify
 key "Ctrl+Alt+s" spotify
 
-#Termite
-#key Ctrl+Alt+Return" termite
+#urxvt
+#key Ctrl+Alt+Return" urxvt
 
-#termite
-#key Ctrl+Alt+t" termite
+#urxvt
+#key Ctrl+Alt+t" urxvt
 
 #Vivaldi
 key "Ctrl+Alt+v" vivaldi-stable
@@ -187,8 +187,8 @@ key "Ctrl+Alt+v" vivaldi-stable
 key "Ctrl+Alt+a" xfce4-appfinder
 
 #Keyboard dependent
-#termite
-#key "Ctrl+Alt+KP_Enter" termite
+#urxvt
+#key "Ctrl+Alt+KP_Enter" urxvt
 
 
 #################################################################
