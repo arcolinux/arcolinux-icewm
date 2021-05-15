@@ -53,10 +53,10 @@ key "Super+F9" evolution
 key "Super+F10" spotify
 
 #Rofi Fullscreen
-key "Super+F11" rofi -show run -fullscreen
+key "Super+F11" rofi -show drun -fullscreen
 
 #Rofi
-key "Super+F12" rofi -show run
+key "Super+F12" rofi -show drun
 
 #################################################################
 # SUPER + ... KEYS
