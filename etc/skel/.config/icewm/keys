@@ -219,8 +219,8 @@ key "Alt+Up" variety --toggle-pause
 #Wallpaper resume
 key "Alt+Down" variety --resume
 
-#Gmrun
-#key "Alt+F2" gmrun
+#Xfce4-appfinder
+#key "Alt+F2" xfce4-appfinder --collapsed
 
 #Xfce4-appfinder
 key "Alt+F3" xfce4-appfinder
