@@ -25,7 +25,7 @@ menu "Applications" _none_ {
     prog "Hyper" _none_ hyper
     prog "Icon Browser" _none_ yad-icon-browser
     prog "Meld" _none_ meld 
-    prog "Sublime Text 3 Dev" _none_ subl3 
+    prog "Sublime Text Dev" _none_ subl 
   }
   menu "Graphics" _none_ {
     prog "Flameshot" _none_ flameshot
