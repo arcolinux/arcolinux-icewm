@@ -89,15 +89,15 @@ key "Super+v" pavucontrol
 #Pragha
 key "Super+m" pragha
 
-#urxvt
-#key Super+Return" urxvt
+#alacritty
+#key Super+Return" alacritty
 
 #Xkill
 key "Super+Escape" xkill
 
 #Keyboard dependent
-#urxvt
-key "Super+KP_Enter" urxvt
+#alacritty
+key "Super+KP_Enter" alacritty
 
 #################################################################
 # SUPER + SHIFT KEYS
@@ -174,11 +174,11 @@ key "Ctrl+Alt+r" rofi-theme-selector
 #Spotify
 key "Ctrl+Alt+s" spotify
 
-#urxvt
-#key Ctrl+Alt+Return" urxvt
+#alacritty
+#key Ctrl+Alt+Return" alacritty
 
-#urxvt
-#key Ctrl+Alt+t" urxvt
+#alacritty
+#key Ctrl+Alt+t" alacritty
 
 #Vivaldi
 key "Ctrl+Alt+v" vivaldi-stable
@@ -187,8 +187,8 @@ key "Ctrl+Alt+v" vivaldi-stable
 key "Ctrl+Alt+a" xfce4-appfinder
 
 #Keyboard dependent
-#urxvt
-#key "Ctrl+Alt+KP_Enter" urxvt
+#alacritty
+#key "Ctrl+Alt+KP_Enter" alacritty
 
 
 #################################################################
