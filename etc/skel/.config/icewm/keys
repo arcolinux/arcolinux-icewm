@@ -74,8 +74,8 @@ key "Super+c" conky-toggle
 #Htop --- Conflict
 key "Super+h" urxvt 'htop task manager' -e htop
 
-#arcolinux-logout
-key "Super+x" arcolinux-logout
+#archlinux-logout
+key "Super+x" archlinux-logout
 
 #Rofi theme selector
 key "Super+r" rofi-theme-selector
@@ -153,11 +153,11 @@ key "Ctrl+Alt+f" firefox
 #Nitrogen
 key "Ctrl+Alt+i" nitrogen
 
-#arcolinux-logout
-key "Ctrl+Alt+k" arcolinux-logout
+#archlinux-logout
+key "Ctrl+Alt+k" archlinux-logout
 
-#arcolinux-logout
-key "Ctrl+Alt+l" arcolinux-logout
+#archlinux-logout
+key "Ctrl+Alt+l" archlinux-logout
 
 #Pamac-manager
 key "Alt+Ctrl+p" pamac-manager 
