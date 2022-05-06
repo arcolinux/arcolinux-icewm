@@ -126,8 +126,8 @@ key "Super+Shift+KP_Enter" thunar
 #arcolinux-welcome-app
 key "Ctrl+Alt+w" arcolinux-welcome-app
 
-#arcolinux-tweak-tool
-key "Ctrl+Alt+e" arcolinux-tweak-tool
+#archlinux-tweak-tool
+key "Ctrl+Alt+e" archlinux-tweak-tool
 
 #conky-rotate
 #key "Ctrl+Alt+Next" conky-rotate -n

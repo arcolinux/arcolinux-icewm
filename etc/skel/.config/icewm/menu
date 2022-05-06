@@ -3,7 +3,7 @@ menu "Applications" _none_ {
     prog "Application Finder" _none_ xfce4-appfinder
     prog "Archive Manager" _none_ file-roller 
     prog "ArcoLinux Betterlockscreen" _none_ /usr/local/bin/arcolinux-betterlockscreen
-    prog "Arcolinux Tweak Tool" _none_ /usr/local/bin/arcolinux-tweak-tool
+    prog "Arcolinux Tweak Tool" _none_ /usr/local/bin/archlinux-tweak-tool
     prog "Atom" _none_ env ATOM_DISABLE_SHELLING_OUT_FOR_ENVIRONMENT=false /usr/bin/atom 
     prog "Catfish File Search" _none_ /usr/bin/catfish 
     prog "Conky Toggle" _none_ conky-toggle
