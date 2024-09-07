@@ -62,8 +62,8 @@ key "Super+F12" rofi -show drun
 # SUPER + ... KEYS
 #################################################################
 
-#Atom
-key "Super+e" atom
+#Code
+key "Super+e" code
 
 #Browser
 key "Super+w" vivaldi-stable
