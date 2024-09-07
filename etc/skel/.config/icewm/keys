@@ -25,8 +25,8 @@ key "Ctrl+Alt+o" picom-toggle-icewm
 # Vivaldi
 key "Super+F1" vivaldi-stable
 
-# Atom
-key "Super+F2" 	atom
+# Code
+key "Super+F2" 	code
 
 #Inkscape
 key "Super+F3" inkscape
